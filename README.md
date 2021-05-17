@@ -3,7 +3,7 @@
   ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)(https://opensource.org/licenses/MIT)
 
   ![SCREENSHOT](./images/screenshot.png)
-
+Link to deployed app: https://book-boi.herokuapp.com/
  ##  Description
  ### This Application uses graphql, react and googles search book api to create an app where users can create an account, search books and add and delete them from their personalized collection!
  ---
